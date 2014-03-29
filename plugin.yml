@@ -1,0 +1,5 @@
+author: BOBNOTBUILDING
+description: Stop players from moving items and armor in their inventory. Auto Equips Leather Armor based on permission system.
+main: me.BOBNOTBUILDING.AntiMove.Main
+name: AntiMove
+version: 2.0
